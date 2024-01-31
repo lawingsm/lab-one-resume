@@ -13,7 +13,7 @@ Sierra Lawing
 - Swim Instructor 
 - Lifeguard Instructor 
 ----
-##Education 
+## Education 
 Geography, B.S. 
 *Appalachian State University 2024*
 
@@ -24,7 +24,7 @@ Gaston College
 *Dual Enrolled Student* 
 
 ----- 
-##Certifications 
+## Certifications 
 #### CPR and First Aid 
 Assisted lifeguarding classes and assisted with inservices.
 #### Lifeguard Instructor 
