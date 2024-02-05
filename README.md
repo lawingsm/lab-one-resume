@@ -1,6 +1,6 @@
 Sierra Lawing 
 ====
-<img src="/resumeohoto.jpeg" width='350'>
+<img src="resumeohoto.jpeg" width='350'>
 
 ### [Intern at Schiele Museum of Natural History](https://www.schielemuseum.org/) 
 ##### Gastonia, North Carolina, USA 
